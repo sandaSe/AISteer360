@@ -1,0 +1,2 @@
+Read recent papers on LLM sycophancy and activation / representation steering (Contrastive Activation Addition, PASTA, CAST, etc.). The toolkit already implements several of these. Pay special attention to the trade-off the competition scores: sycophancy reduction minus mean regression on general capability benchmarks (only regressions are penalized).
+CodaBench / platform account (the competition runs on Steerability + CodaBench).
